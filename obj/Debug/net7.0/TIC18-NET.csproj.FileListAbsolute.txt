@@ -1,0 +1,4 @@
+C:\Users\55739\Documents\GitHub\TIC18-NET\obj\Debug\net7.0\TIC18-NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55739\Documents\GitHub\TIC18-NET\obj\Debug\net7.0\TIC18-NET.AssemblyInfoInputs.cache
+C:\Users\55739\Documents\GitHub\TIC18-NET\obj\Debug\net7.0\TIC18-NET.AssemblyInfo.cs
+C:\Users\55739\Documents\GitHub\TIC18-NET\obj\Debug\net7.0\TIC18-NET.csproj.CoreCompileInputs.cache
