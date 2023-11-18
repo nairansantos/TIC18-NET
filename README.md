@@ -1,7 +1,5 @@
 # TIC18-NET
  
-# Aluna:
-
 Nome: Nairan Santos
 Email: nairanbsantos28@gmail.com
 
